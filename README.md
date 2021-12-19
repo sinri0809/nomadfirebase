@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# FireBase Practice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## by NomadCoders
 
-## Available Scripts
+> 개인 프로젝트를 하다가 사용자 계정에 따라서 달라지는 기능을 구현하기 위해 mysql php, mongoDB등 찾아보다가  
+> 🔥Firebase🔥를 배우고, 구현하기로 결정했습니다.
 
-In the project directory, you can run:
+강의가 1년 정도 지난거라, firebase를 install하고나니 버전이 달라서 docs보면서 코드를 수정해야 했습니다.  
+version 9를 기준으로 작성했습니다.  
+version 9는 8이랑 쓰는 방법도 다르고, 기본적으로 **타입스크립트**를 기준으로 docs가 구성되어 있습니다.😢 얼른 타입스크립트를 시작하라는 신의 계시 같습니다...
 
-### `npm start`
+- Firebase는 NoSQL 구조입니다.
+- Firebase ver9의 Docs는 타입스크립트가 기본입니다...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+그래도 강의가 괜찮으니 혹시라도 firebase시작하시는 분들은 해당 강의 보시면 좋을거 같습니다.😊  
+저도 React를 주로 사용하려 하는데, 강의 하시는 분마다 코드 작성 스타일이 조금 다르더라구요. 노마드님은 주로 구조분해할당으로 변수를 다루는 부분이 많습니다. 이 부분이 특히 도움됐습니다.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📝
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [FirestoreDocs](https://firebase.google.com/docs/reference/js/firestore_)
+- [NomadCoders](https://nomadcoders.co/nwitter)
+- [PedroTech](https://www.youtube.com/watch?v=jCY6DH8F4oc&t=1s)
